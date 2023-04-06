@@ -1,0 +1,9 @@
+.body_backgrounds{
+    background-image: url("bg1.jpg");
+    background-size: cover;}
+canvas {
+    border-radius: 20px;
+    border-width:10px;
+    border-style:ridge;
+    background-color: white;
+}
